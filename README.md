@@ -35,7 +35,7 @@ Además, integra *sensores de proximidad* para evitar obstáculos, *dos motores 
 >[Batería de litio recargable]
 >
 >Bateria de 12V
->>![Batería](https://github.com/RockTheRoses/Integrador_8B/blob/main/PuenteH.jpg)
+>>![Batería](https://github.com/RockTheRoses/Integrador_8B/blob/main/Bateria12v.jpg)
 
 
 

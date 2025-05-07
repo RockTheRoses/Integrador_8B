@@ -24,15 +24,20 @@ Además, integra *sensores de proximidad* para evitar obstáculos, *dos motores 
 
 >[Puente h personalizado]
 >
->Usando MOSFET IR2110 para controlar los motores sin sobrecalentamiento. 
+>Usando MOSFET IR2110 para controlar los motores sin sobrecalentamiento.
+>![PuenteH personalizado](https://github.com/RockTheRoses/Integrador_8B/blob/main/PuenteH.jpg)
 
 >[Microcontrolador Arduino Mega]
 >
 >Para gestionar sensoser, joystick y comandos de voz
+>![Microcontrolador Arduino Mega](https://github.com/RockTheRoses/Integrador_8B/blob/main/PuenteH.jpg)
 
 >[Batería de litio recargable]
 >
->Bateria de 12V 
+>Bateria de 12V
+>>![Batería](https://github.com/RockTheRoses/Integrador_8B/blob/main/PuenteH.jpg)
+
+
 
 
 
